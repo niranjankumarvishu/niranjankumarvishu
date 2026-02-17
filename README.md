@@ -1,14 +1,27 @@
-# Hi, I'm Niranjan Kumar Vishu 👋
+<h1 align="center">Hi 👋, I'm Niranjan Kumar Vishu</h1>
+<h3 align="center">Software Developer | Python | AI & Web Development</h3>
 
-Software Developer from India.
+---
 
-I specialize in:
+🌍 Based in India  
+💻 Building real-world projects using Python, AI, and Web Technologies  
+🚀 Passionate about Artificial Intelligence and scalable applications  
+
+---
+
+## 🔧 Skills & Technologies
 - Python
 - Artificial Intelligence
 - Machine Learning
 - React
 - Flask
+- Git & GitHub
 
-Currently building real-world AI and Web Development projects.
+---
 
-📫 Connect with me on LinkedIn
+## 📫 Connect With Me
+- LinkedIn: (Add your LinkedIn link here)
+
+---
+
+⭐ Always learning. Always building.
